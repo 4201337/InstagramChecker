@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 # ---------------------
 # Instagram username availablity checker.
 # Coded by @4201337
