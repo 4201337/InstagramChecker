@@ -1,4 +1,3 @@
 # InstagramChecker
 
-Instagram username availablity checker.
-Enjoy!
+Instagram username availablity checker. Enjoy!
